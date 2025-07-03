@@ -1,0 +1,8 @@
+Eccoti di nuovo qui;3
+Buon lavoro %s;4
+Si dai, entra %s;3
+Ti stiamo tutti aspettando %s;2
+Mangiato bene anche oggi %s?;4
+Seconda meta' della giornata: sei pronto per fare magie?;3
+La giornata continua: siamo a meta'!;4
+Mancavi solo tu %s;4

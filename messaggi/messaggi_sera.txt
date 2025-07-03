@@ -1,0 +1,10 @@
+Buona serata %s;4
+Anche oggi e' finita;4 
+Ci vediamo domani %s!;4
+Anche questa giornata e' finita;4
+Ora di andare a casa!;4
+Buona cena!;4
+Passa una buona serata!;4
+A domani!;4
+Buon riposo!;4
+Non correre per strada %s;4

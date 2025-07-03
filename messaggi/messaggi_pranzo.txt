@@ -1,0 +1,7 @@
+Buon pranzo %s;4
+Buon appetito %s;4
+Vedi di tornare eh %s;3
+Ci vediamo dopo %s;4
+A dopo pasticcino;1
+Fai il bravo;3
+Non correre per strada;2

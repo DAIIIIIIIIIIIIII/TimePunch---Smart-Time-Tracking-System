@@ -1,0 +1,9 @@
+    Sveglia presto eh? Buon lavoro %s!;4
+    Il sole è ancora a letto, ma tu sei già qui! Buona giornata!;3
+    Appena svegliato?;3
+    Buon lavoro %s;4
+    Hai preso il primo treno del giorno. Buon lavoro!;3
+    La giornata inizia presto per i migliori. Buona giornata %s!;4
+    Gia' all'opera mentre il mondo dorme? Complimenti e buon lavoro %s!;4
+    Che ci fai già qui? Torna a letto!;2
+    Non avevi di meglio da fare a casa?;1

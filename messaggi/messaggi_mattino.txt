@@ -1,0 +1,10 @@
+Ma buongiorno %s;4
+Buona giornata %s;4
+Appena svegliato?;3
+Buon lavoro %s;4
+Primo orario del giorno: hai tutto il tempo per brillare!;3
+Che bella l'aria fresca del mattino, vero? Buona giornata %s!;2
+La tua giornata e' appena iniziata. Aiuto!;3
+Buongiorno principessa;2
+Sbrigati oggi c'e' un sacco di lavoro da fare!;3
+Dai so chi sei sparisci!;1
